@@ -1,2 +1,1 @@
-# mll-chinese-dance
-Mei Ling Lee's Chinese Folk Dance.
+# Mei Ling Lee Chinese Folk Dance.
